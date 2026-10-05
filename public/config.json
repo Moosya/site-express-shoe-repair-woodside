@@ -1,0 +1,27 @@
+{
+  "shopName": "Express Shoe Repair",
+  "tagline": "Shoe repair on Woodside Avenue",
+  "phone": "(718) 429-1330",
+  "address": "58-19 Woodside Ave, Woodside, NY 11377",
+  "hours": "Call or visit for hours",
+  "photoUrl": "/hero.jpg",
+  "services": [
+    {
+      "name": "Shoe repair",
+      "description": "Soles, heels, and everyday shoe fixes."
+    },
+    {
+      "name": "Leather care",
+      "description": "Cleaning and conditioning for shoes and small leather goods."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by for a quote."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "express-shoe-repair-woodside",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
