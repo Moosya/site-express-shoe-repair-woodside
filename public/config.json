@@ -4,7 +4,7 @@
   "phone": "(718) 429-1330",
   "address": "58-19 Woodside Ave, Woodside, NY 11377",
   "hours": "Call or visit for hours",
-  "photoUrl": "/hero.jpg",
+  "photoUrl": "hero.jpg",
   "services": [
     {
       "name": "Shoe repair",
